@@ -1,5 +1,6 @@
 # FortniteEmoteWheel
-The updated gorilla tag emote wheel mod originally made by iiDK
+The emote wheel from Fortnite, directly ported to Gorilla Tag.
+<img src="https://i.imgur.com/eK6gu0T.png">
 
 ---
 
@@ -13,8 +14,8 @@ The updated gorilla tag emote wheel mod originally made by iiDK
 
 # Installation
 
-- Download the release from [here](https://github.com/Ademuzel/Adems-Fortnite-Emote-Wheel)
+- Download the release from [here](https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/latest)
 - Drag the file `FortniteEmoteWheel.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
-> This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2026 Another Axiom LLC.
+> This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2024 Another Axiom LLC.

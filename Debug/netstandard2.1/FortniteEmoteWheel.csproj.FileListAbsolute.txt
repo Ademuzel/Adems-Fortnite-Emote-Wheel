@@ -1,0 +1,463 @@
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\FortniteEmoteWheel.deps.json
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\FortniteEmoteWheel.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\FortniteEmoteWheel.pdb
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\ALINE.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\andywiecko.BurstTriangulator.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Autodesk.Fbx.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\geometry3Sharp.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\KID.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MeshBakerCore.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.BuildingBlocks.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.Unity.Examples.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.Unity.UI.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.Samples.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.Fusion.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PlayFab.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\SteamVR.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\TechniePhysicsCreator.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Formats.Fbx.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.Csg.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.Stl.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ScriptableBuildPipeline.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VoiceSDK.Dictation.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VYaml.Core.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\ZString.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\XNode.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UniTask.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\K4os.Compression.LZ4.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.Samples.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Wit.Dictation.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.csproj.AssemblyReference.cache
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.AssemblyInfoInputs.cache
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.AssemblyInfo.cs
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.csproj.CoreCompileInputs.cache
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\Fortnite.1CCAAE66.Up2Date
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.dll
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.pdb
+C:\Users\sarah\OneDrive\Desktop\Emote-Wheel-1.0.0\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\arcade_success.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\FortniteEmoteWheel.deps.json
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\FortniteEmoteWheel.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\FortniteEmoteWheel.pdb
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\0Harmony.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\AA.Mothership.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\ALINE.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\andywiecko.BurstTriangulator.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\AssistantCoreSDKRuntime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\AstarPathfindingProject.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Autodesk.Fbx.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Backtrace.Unity.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BakeryRuntimeAssembly.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Common.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Log.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Realtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Sockets.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Fusion.Unity.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\geometry3Sharp.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\GT_CustomMapSupportRuntime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\KID.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCK.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCK_GorillaTag.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.NativeAudioBridge.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MeshBakerCore.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.WitAi.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.WitAi.Lib.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.WitAi.TTS.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.BuildingBlocks.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.Unity.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.Unity.Examples.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Modio.Unity.UI.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\NanoSockets.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.OVR.Samples.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Platform.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.VR.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Pathfinding.ClipperLib.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Pathfinding.Ionic.Zip.Reduced.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Pathfinding.Poly2Tri.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.Fusion.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\PlayFab.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Modules.Unity.Addressables.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\SteamVR.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\SteamVR_Actions.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\TechniePhysicsCreator.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.AI.Navigation.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Cinemachine.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Formats.Fbx.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.InputSystem.ForUI.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.Csg.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.KdTree.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.Poly2Tri.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ProBuilder.Stl.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.ScriptableBuildPipeline.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.CoreUtils.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.Interaction.Toolkit.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.Management.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Valve.Newtonsoft.Json.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VoiceSDK.Dictation.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VoiceSDK.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VYaml.Core.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\websocket-sharp.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\ZString.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\XNode.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UniTask.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCKCore.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\nexus.nexussdk.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\arcade_success.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\K4os.Compression.LZ4.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\endel.nativewebsocket.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.2D.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\NativeGallery.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Common.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Net.endel.nativewebsocket.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Voice.NLayer.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Voice.Opus.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.VoiceSDK.Mic.Other.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\VoiceSDK.Telemetry.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Oculus.Interaction.Samples.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.OpenXR.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.InputForUIModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.VisualEffectGraph.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.Shared.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.HierarchyCoreModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.MarshallingModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.AMDModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.IdentifiersModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.MultiplayerModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\UnityEngine.UnityConsentModule.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.Wit.Dictation.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\LIV.LCKCore.ThirdParty.MessagePack.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\0Harmony.xml
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.xml
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.csproj.AssemblyReference.cache
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.AssemblyInfoInputs.cache
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.AssemblyInfo.cs
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.csproj.CoreCompileInputs.cache
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\Fortnite.1CCAAE66.Up2Date
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\obj\Debug\netstandard2.1\FortniteEmoteWheel.pdb
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.Audio.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.EnvironmentDepth.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.ImmersiveDebugger.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.ImmersiveDebugger.Interface.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\meta.xr.mrutilitykit.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.MultiplayerBlocks.Fusion.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Meta.XR.MultiplayerBlocks.Shared.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.OpenXR.Features.MetaQuestSupport.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.OpenXR.Features.MockRuntime.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+C:\EMOTE WHEEL SOURCE\Emote-Wheel-1.0.0\bin\Debug\netstandard2.1\Atlas Remade.dll
