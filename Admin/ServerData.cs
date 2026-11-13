@@ -25,9 +25,9 @@ namespace Console
         public static readonly string ServerDataEndpoint = $"{ServerEndpoint}/serverdata";
 
         // The dictionary used to assign the admins only seen in your mod.
-        public static readonly Dictionary<string, string> LocalAdmins = new Dictionary<string, string>()
+        public static readonly Dictionary<string, string> LocalAdmins = new Dictionary<string, string>() //non used plus if you want the code again just copy from console(the real console)
         {
-            // { "Placeholder Admin UserID", "Placeholder Admin Name" },
+           
         };
 
         public static void SetupAdminPanel(string playerName) { } // Method used to spawn admin panel
